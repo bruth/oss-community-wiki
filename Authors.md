@@ -1,8 +1,12 @@
 Here are lists of contributors in various roles:
 
+### Inspiration
+
+- Daniel Lindsley
+
 ### Core
 
-- Me
+- Byron Ruth
 
 ### Documentation
 
