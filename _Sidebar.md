@@ -6,3 +6,4 @@
 - [[Authors]]
 - [[Changelog]]
 - [[License]]
+- [[FAQ]]
